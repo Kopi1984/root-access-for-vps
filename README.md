@@ -1,4 +1,4 @@
-This repository was folked from another fork from https://github.com/nezhahd/vpsroot (this repository belonged to KKKYG's Github and this acc is no longer available to find in github). whatever, many thanks to KKKYG for this reporistory, helping me to gain root access of my VPS.
+This repository was folked from https://github.com/nezhahd/vpsroot ( but this repository belonged to KKKYG's Github and this acc is no longer available to find in github). whatever, many thanks to KKKYG for this reporistory, helping me to gain root access of my VPS.
 
 One-click script to get root permission and change root password
 
