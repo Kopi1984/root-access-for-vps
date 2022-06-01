@@ -9,9 +9,9 @@ wget -N https://raw.githubusercontents.com/Kopi1984/root-access-for-vps/main/roo
 ```
 
 Once the script has done loading, you'd see the text: 
-```
-custom root password:[add your root password here] 
-```
+
+yellow " custom root password:[add your root password here] " 
+
 Cheers!
 
 
