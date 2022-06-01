@@ -3,15 +3,14 @@ This repository was folked from https://github.com/nezhahd/vpsroot ( but this re
 One-click script to get root permission and change root password
 
 Usage：
-
 ```
 wget -N https://raw.githubusercontents.com/Kopi1984/root-access-for-vps/main/root.sh && bash root.sh
 ```
 
 Once the script has done loading, you'd see the text: 
-
-yellow " custom root password:[add your root password here] " 
-
+```
+custom root password:[add your root password here]
+```
 Cheers!
 
 
